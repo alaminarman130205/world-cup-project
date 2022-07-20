@@ -1,0 +1,28 @@
+.player{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.match-summery{
+    display: flex;
+}
+.flag1{
+margin-top: 70px;
+margin-left: 15px;
+}
+.vs{
+    margin-top: 30px;
+    padding: 10px;
+}
+.flag2{
+    margin-top: 70px;
+}
+.match-summery1 h1{
+text-align: center;
+}
+.match-summery1 p{
+    text-align: center;
+    }
+    
+    
+
